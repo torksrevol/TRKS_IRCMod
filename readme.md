@@ -1,20 +1,14 @@
-# HexChat [![Build Status](http://img.shields.io/travis/hexchat/hexchat.svg?style=flat)](https://travis-ci.org/hexchat/hexchat) [![Build Status](http://img.shields.io/jenkins/s/http/nekomimi.cloudapp.net:8080/hexchat.svg?style=flat)](http://nekomimi.cloudapp.net:8080/job/hexchat/)
+# TRKS - IRCMod [![Build Status](http://img.shields.io/travis/hexchat/hexchat.svg?style=flat)](https://) [![Build Status](http://img.shields.io/jenkins/s/http/nekomimi.cloudapp.net:8080/hexchat.svg?style=flat)](http://)
 
-HexChat is an IRC client for Windows and UNIX-like operating systems.  
+TRKS - IRCMod client for Windows and Linux operating systems.  
 See [IRCHelp.org](http://irchelp.org) for information about IRC in general.  
-For more information on HexChat please read our [documentation](https://hexchat.readthedocs.org/en/latest/index.html):
-- [Downloads](http://hexchat.github.io/downloads.html)
-- [FAQ](https://hexchat.readthedocs.org/en/latest/faq.html)
-- [Changelog](https://hexchat.readthedocs.org/en/latest/changelog.html)
-- [Python API](https://hexchat.readthedocs.org/en/latest/script_python.html)
-- [Perl API](https://hexchat.readthedocs.org/en/latest/script_perl.html)
 
 ---
 
 <sub>
 X-Chat ("xchat") Copyright (c) 1998-2010 By Peter Zelezny.  
 HexChat ("hexchat") Copyright (c) 2009-2014 By Berke Viktor.
-</sub>
+IRCMod ("ircmod") Copyright (c) 2015-2016 By Griffon Wolfdale</sub>
 
 <sub>
 This program is released under the GPL v2 with the additional exemption
