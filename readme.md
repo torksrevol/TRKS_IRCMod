@@ -1,4 +1,4 @@
-# HexChat [![Build Status](http://img.shields.io/travis/hexchat/hexchat.svg?style=flat)](https://) [![Build Status](http://img.shields.io/jenkins/s/http/nekomimi.cloudapp.net:8080/hexchat.svg?style=flat)](http://)
+# TRKS - IRCMod [![Build Status](http://img.shields.io/travis/hexchat/hexchat.svg?style=flat)](https://) [![Build Status](http://img.shields.io/jenkins/s/http/nekomimi.cloudapp.net:8080/hexchat.svg?style=flat)](http://)
 
 TRKS - IRCMod client for Windows and Linux operating systems.  
 See [IRCHelp.org](http://irchelp.org) for information about IRC in general.  
